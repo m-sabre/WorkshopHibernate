@@ -1,0 +1,7 @@
+pl/coderslab/model/Book.class
+pl/coderslab/config/AppInitializer.class
+pl/coderslab/repository/BookRepository.class
+pl/coderslab/service/JpaBookService.class
+pl/coderslab/config/AppConfig.class
+pl/coderslab/controller/ManageBookController.class
+pl/coderslab/service/BookService.class

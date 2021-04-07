@@ -1,0 +1,7 @@
+/home/maciej/CodersLab/KAT_JEE_W_06_JEE_Hibernate/WorkshopHibernate/src/main/java/pl/coderslab/config/AppConfig.java
+/home/maciej/CodersLab/KAT_JEE_W_06_JEE_Hibernate/WorkshopHibernate/src/main/java/pl/coderslab/config/AppInitializer.java
+/home/maciej/CodersLab/KAT_JEE_W_06_JEE_Hibernate/WorkshopHibernate/src/main/java/pl/coderslab/service/JpaBookService.java
+/home/maciej/CodersLab/KAT_JEE_W_06_JEE_Hibernate/WorkshopHibernate/src/main/java/pl/coderslab/controller/ManageBookController.java
+/home/maciej/CodersLab/KAT_JEE_W_06_JEE_Hibernate/WorkshopHibernate/src/main/java/pl/coderslab/repository/BookRepository.java
+/home/maciej/CodersLab/KAT_JEE_W_06_JEE_Hibernate/WorkshopHibernate/src/main/java/pl/coderslab/model/Book.java
+/home/maciej/CodersLab/KAT_JEE_W_06_JEE_Hibernate/WorkshopHibernate/src/main/java/pl/coderslab/service/BookService.java
